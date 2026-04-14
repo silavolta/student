@@ -1,0 +1,39 @@
+<api>
+  <jcw-types>
+    <type name="ActivityBase" package="crc64e6bbec0cebca6418" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="android.app.Activity" partial_assembly_qualified_name="GalaSoft.MvvmLight.Views.ActivityBase, GalaSoft.MvvmLight.Platform">
+      <constructors>
+        <constructor name="ActivityBase" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+      </constructors>
+      <methods>
+        <method name="onResume" method="n_onResume:()V:GetOnResumeHandler" jni_signature="()V" retval="void" is_dynamically_registered="True" />
+      </methods>
+    </type>
+    <type name="DialogService_OnDismissListener" package="crc64e6bbec0cebca6418" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="java.lang.Object" partial_assembly_qualified_name="GalaSoft.MvvmLight.Views.DialogService+OnDismissListener, GalaSoft.MvvmLight.Platform">
+      <implemented_interfaces>
+        <interface name="android.content.DialogInterface.OnDismissListener" />
+      </implemented_interfaces>
+      <constructors>
+        <constructor name="DialogService_OnDismissListener" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+      </constructors>
+      <methods>
+        <method name="onDismiss" method="n_onDismiss:(Landroid/content/DialogInterface;)V:GetOnDismiss_Landroid_content_DialogInterface_Handler:Android.Content.IDialogInterfaceOnDismissListenerInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" jni_signature="(Landroid/content/DialogInterface;)V" params="android.content.DialogInterface p0" retval="void" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+      </methods>
+    </type>
+    <type name="ObservableAdapter_1" package="crc64eb2743c2f6ea027b" application_java_class="android.app.Application" mono_runtime_initialization="mono.MonoPackageManager.LoadApplication (context);" extends_type="android.widget.BaseAdapter" partial_assembly_qualified_name="GalaSoft.MvvmLight.Helpers.ObservableAdapter`1, GalaSoft.MvvmLight.Platform">
+      <constructors>
+        <constructor name="ObservableAdapter_1" method="n_.ctor:()V:" jni_signature="()V" managed_parameters="" retval="void" is_dynamically_registered="True" />
+      </constructors>
+      <methods>
+        <method name="getCount" method="n_getCount:()I:GetGetCountHandler" jni_signature="()I" retval="int" is_dynamically_registered="True" />
+        <method name="getItem" method="n_getItem:(I)Ljava/lang/Object;:GetGetItem_IHandler" jni_signature="(I)Ljava/lang/Object;" params="int p0" retval="java.lang.Object" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+        <method name="getItemId" method="n_getItemId:(I)J:GetGetItemId_IHandler" jni_signature="(I)J" params="int p0" retval="long" is_dynamically_registered="True" super_call="p0" activate_call="p0" />
+        <method name="getView" method="n_getView:(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;:GetGetView_ILandroid_view_View_Landroid_view_ViewGroup_Handler" jni_signature="(ILandroid/view/View;Landroid/view/ViewGroup;)Landroid/view/View;" params="int p0, android.view.View p1, android.view.ViewGroup p2" retval="android.view.View" is_dynamically_registered="True" super_call="p0, p1, p2" activate_call="p0, p1, p2" />
+      </methods>
+    </type>
+  </jcw-types>
+  <acw-types partial-assembly-name="GalaSoft.MvvmLight.Platform" module-name="GalaSoft.MvvmLight.Platform.dll">
+    <type assembly-qualified-name="GalaSoft.MvvmLight.Views.ActivityBase, GalaSoft.MvvmLight.Platform, Version=5.4.1.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="galasoft.mvvmlight.views.ActivityBase" java-key="crc64e6bbec0cebca6418.ActivityBase" managed-key="GalaSoft.MvvmLight.Views.ActivityBase" partial-assembly-qualified-name="GalaSoft.MvvmLight.Views.ActivityBase, GalaSoft.MvvmLight.Platform" />
+    <type assembly-qualified-name="GalaSoft.MvvmLight.Views.DialogService+OnDismissListener, GalaSoft.MvvmLight.Platform, Version=5.4.1.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="galasoft.mvvmlight.views.DialogService_OnDismissListener" java-key="crc64e6bbec0cebca6418.DialogService_OnDismissListener" managed-key="GalaSoft.MvvmLight.Views.DialogService.OnDismissListener" partial-assembly-qualified-name="GalaSoft.MvvmLight.Views.DialogService+OnDismissListener, GalaSoft.MvvmLight.Platform" />
+    <type assembly-qualified-name="GalaSoft.MvvmLight.Helpers.ObservableAdapter`1, GalaSoft.MvvmLight.Platform, Version=5.4.1.0, Culture=neutral, PublicKeyToken=null" compat-jni-name="galasoft.mvvmlight.helpers.ObservableAdapter_1" java-key="crc64eb2743c2f6ea027b.ObservableAdapter_1" managed-key="GalaSoft.MvvmLight.Helpers.ObservableAdapter`1" partial-assembly-qualified-name="GalaSoft.MvvmLight.Helpers.ObservableAdapter`1, GalaSoft.MvvmLight.Platform" />
+  </acw-types>
+</api>

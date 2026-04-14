@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\MauiRaider\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|c:\\c#\\mauiraider\\mauiraider\\vievmodels\\vievmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|solutionrelative:mauiraider\\vievmodels\\vievmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|c:\\c#\\mauiraider\\mauiraider\\detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|solutionrelative:mauiraider\\detailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|c:\\c#\\mauiraider\\mauiraider\\mauiraider.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|solutionrelative:mauiraider\\mauiraider.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|c:\\c#\\mauiraider\\mauiraider\\detailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|solutionrelative:mauiraider\\detailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|c:\\c#\\mauiraider\\mauiraider\\graphicsdrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|solutionrelative:mauiraider\\graphicsdrawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|c:\\c#\\mauiraider\\mauiraider\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|solutionrelative:mauiraider\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|c:\\c#\\mauiraider\\mauiraider\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|solutionrelative:mauiraider\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|c:\\c#\\mauiraider\\mauiraider\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|solutionrelative:mauiraider\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|c:\\c#\\mauiraider\\mauiraider\\mauiraider.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7937E88C-A207-49F4-A150-7820F821971E}|MauiRaider\\MauiRaider.csproj|solutionrelative:mauiraider\\mauiraider.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetailPage.xaml",
+              "DocumentMoniker": "C:\\C#\\MauiRaider\\MauiRaider\\DetailPage.xaml",
+              "RelativeDocumentMoniker": "MauiRaider\\DetailPage.xaml",
+              "ToolTip": "C:\\C#\\MauiRaider\\MauiRaider\\DetailPage.xaml",
+              "RelativeToolTip": "MauiRaider\\DetailPage.xaml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-12T11:08:06.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiRaider.csproj",
+              "DocumentMoniker": "C:\\C#\\MauiRaider\\MauiRaider\\MauiRaider.csproj",
+              "RelativeDocumentMoniker": "MauiRaider\\MauiRaider.csproj",
+              "ToolTip": "C:\\C#\\MauiRaider\\MauiRaider\\MauiRaider.csproj",
+              "RelativeToolTip": "MauiRaider\\MauiRaider.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-12T18:11:53.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VievModel.cs",
+              "DocumentMoniker": "C:\\C#\\MauiRaider\\MauiRaider\\VievModels\\VievModel.cs",
+              "RelativeDocumentMoniker": "MauiRaider\\VievModels\\VievModel.cs",
+              "ToolTip": "C:\\C#\\MauiRaider\\MauiRaider\\VievModels\\VievModel.cs",
+              "RelativeToolTip": "MauiRaider\\VievModels\\VievModel.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwC0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T17:40:04.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\C#\\MauiRaider\\MauiRaider\\DetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiRaider\\DetailPage.xaml.cs",
+              "ToolTip": "C:\\C#\\MauiRaider\\MauiRaider\\DetailPage.xaml.cs",
+              "RelativeToolTip": "MauiRaider\\DetailPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T13:21:44.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GraphicsDrawable.cs",
+              "DocumentMoniker": "C:\\C#\\MauiRaider\\MauiRaider\\GraphicsDrawable.cs",
+              "RelativeDocumentMoniker": "MauiRaider\\GraphicsDrawable.cs",
+              "ToolTip": "C:\\C#\\MauiRaider\\MauiRaider\\GraphicsDrawable.cs",
+              "RelativeToolTip": "MauiRaider\\GraphicsDrawable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA/wBEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T13:16:27.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\C#\\MauiRaider\\MauiRaider\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiRaider\\MainPage.xaml",
+              "ToolTip": "C:\\C#\\MauiRaider\\MauiRaider\\MainPage.xaml",
+              "RelativeToolTip": "MauiRaider\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-12T10:48:55.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\C#\\MauiRaider\\MauiRaider\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MauiRaider\\AppShell.xaml",
+              "ToolTip": "C:\\C#\\MauiRaider\\MauiRaider\\AppShell.xaml",
+              "RelativeToolTip": "MauiRaider\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-12T10:56:57.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\C#\\MauiRaider\\MauiRaider\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MauiRaider\\App.xaml.cs",
+              "ToolTip": "C:\\C#\\MauiRaider\\MauiRaider\\App.xaml.cs",
+              "RelativeToolTip": "MauiRaider\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T13:22:06.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiRaider",
+              "DocumentMoniker": "C:\\C#\\MauiRaider\\MauiRaider\\MauiRaider.csproj",
+              "RelativeDocumentMoniker": "MauiRaider\\MauiRaider.csproj",
+              "ToolTip": "C:\\C#\\MauiRaider\\MauiRaider\\MauiRaider.csproj",
+              "RelativeToolTip": "MauiRaider\\MauiRaider.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-12T11:54:37.198Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
