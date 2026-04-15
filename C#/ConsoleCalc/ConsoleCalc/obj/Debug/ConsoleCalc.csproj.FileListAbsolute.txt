@@ -1,0 +1,7 @@
+C:\C#\ConsoleCalc\ConsoleCalc\bin\Debug\ConsoleCalc.exe.config
+C:\C#\ConsoleCalc\ConsoleCalc\bin\Debug\ConsoleCalc.exe
+C:\C#\ConsoleCalc\ConsoleCalc\bin\Debug\ConsoleCalc.pdb
+C:\C#\ConsoleCalc\ConsoleCalc\obj\Debug\ConsoleCalc.csproj.AssemblyReference.cache
+C:\C#\ConsoleCalc\ConsoleCalc\obj\Debug\ConsoleCalc.csproj.CoreCompileInputs.cache
+C:\C#\ConsoleCalc\ConsoleCalc\obj\Debug\ConsoleCalc.exe
+C:\C#\ConsoleCalc\ConsoleCalc\obj\Debug\ConsoleCalc.pdb
